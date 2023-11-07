@@ -3,52 +3,62 @@
     {
       "id": 1,
       "name": "Alien",
-      "year": "1979"
+      "year": "1979",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/alien.webp"
     },
     {
       "id": 2,
       "name": "The Silence Of The Lambs",
-      "year": "1991"
+      "year": "1991",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/silenceofthelambs.webp"
     },
     {
       "id": 3,
       "name": "Get Out",
-      "year": "2017"
+      "year": "2017",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/getout.webp"
     },
     {
       "id": 4,
       "name": "A Quiet Place",
-      "year": "2018"
+      "year": "2018",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/aquietplacejpg.webp"
     },
     {
       "id": 5,
       "name": "El Espinazo Del Diablo",
-      "year": "2001"
+      "year": "2001",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/espinazodeldiablo.webp"
     },
     {
       "id": 6,
       "name": "A Nightmare On Elm Street",
-      "year": "1984"
+      "year": "1984",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/nightmeronelmstreet.webp"
     },
     {
       "id": 7,
       "name": "Misery",
-      "year": "1990"
+      "year": "1990",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/misery.webp"
     },
     {
       "id": 8,
       "name": "28 Days Later",
-      "year": "2002"
+      "year": "2002",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/28dayslater.webp"
     },
     {
       "id": 9,
       "name": "The Descent",
-      "year": "2005"
+      "year": "2005",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/thedescent.webp"
     },
     {
       "id": 10,
       "name": "E.T",
-      "year": "1982"
+      "year": "1982",
+      "image": "https://raw.githubusercontent.com/Marpro24/https-github.com-Marpro24-202309-movie-api-marta-ibarra/main/pictures/et.webp"
     }
   ]
 }
